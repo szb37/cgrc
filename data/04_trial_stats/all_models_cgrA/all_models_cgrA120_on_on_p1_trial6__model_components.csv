@@ -1,0 +1,7 @@
+study,scale,guesser,respondent,model_type,component,est,se,t,p,model_name,trial_id
+mock,scale1,self,self,without_guess,intercept,23.5,0.7874163712797299,29.844439177467418,8.145834677177987e-57,on_on_p1,6
+mock,scale1,self,self,without_guess,conditionAC,15.588235294117645,1.0460214892849427,14.902404447516387,6.813036934014821e-29,on_on_p1,6
+mock,scale1,self,self,with_guess,intercept,20.46875,0.8701832109226106,23.52234534414659,5.779162128330781e-46,on_on_p1,6
+mock,scale1,self,self,with_guess,conditionAC,14.440340909090908,1.720475866639495,8.39322491474198,1.3204203037042082e-13,on_on_p1,6
+mock,scale1,self,self,with_guess,guessAC,7.88125,1.4031282669400256,5.6169134253047375,1.3528746521934385e-07,on_on_p1,6
+mock,scale1,self,self,with_guess,conditionAC:guessAC,-2.8956040669856478,2.143989884160018,-1.3505679706693674,0.1794627489046585,on_on_p1,6

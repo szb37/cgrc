@@ -1,0 +1,3 @@
+study,scale,guesser,respondent,model_type,df1,df2,f,adjr2,p,model_name,trial_id
+mock,scale1,self,self,without_guess,1.0,118.0,11.692779684821467,0.08244699289202528,0.0008621986532354664,off_on_0,1
+mock,scale1,self,self,with_guess,3.0,116.0,24.31039311934764,0.37014101958002665,2.811637635845831e-12,off_on_0,1

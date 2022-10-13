@@ -1,0 +1,11 @@
+**/__pycache__/*
+*.log
+*.pot
+*.pyc
+__pycache__/
+*.png
+*.svg
+csvs/*
+plot_exports/*
+tests/fixtures/tmp/*
+miscs/*.py
